@@ -43,3 +43,4 @@ Feel free to explore each sheet for a deeper understanding of business analytics
 ![Screenshot 2024-12-12 123326](https://github.com/user-attachments/assets/400f137b-47f1-40d6-913d-ef9058c60782)
 ![Screenshot 2024-12-12 122911](https://github.com/user-attachments/assets/1b9d1e4d-b88a-4c96-a1b6-e36c662a17e9)
 
+**[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDcyOTgyYmYtNzk0Mi00MmI2LWJlNzMtYzYwODY5NzA0Y2JlIiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
