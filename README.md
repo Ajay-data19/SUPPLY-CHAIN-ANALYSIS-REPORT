@@ -39,5 +39,7 @@ The Supply Chain Analysis Report comprises several key sections, each providing 
 
 Feel free to explore each sheet for a deeper understanding of business analytics.
 
-
+![Screenshot 2024-12-12 123108](https://github.com/user-attachments/assets/02e61f8c-c4ff-4afe-9c52-821b9dda395f)
+![Screenshot 2024-12-12 123326](https://github.com/user-attachments/assets/400f137b-47f1-40d6-913d-ef9058c60782)
+![Screenshot 2024-12-12 122911](https://github.com/user-attachments/assets/1b9d1e4d-b88a-4c96-a1b6-e36c662a17e9)
 
