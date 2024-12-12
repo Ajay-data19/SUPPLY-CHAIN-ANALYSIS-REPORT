@@ -97,3 +97,48 @@ Feel free to explore each sheet for a deeper understanding of business analytics
 
 By addressing these key areas, we can drive sustainable growth, enhance customer satisfaction, and boost profitability.
 
+## Challenges and Limitations  
+
+- **Missing Demographics**: The dataset lacked gender, age, and customer segmentation, limiting insights into customer preferences.  
+- **No Date Periods**: Absence of time-based data restricted trend analysis and seasonal insights.  
+- **Data Imbalance**: Skincare outperformed, while haircare and cosmetics needed improvement, affecting category-wide analysis.  
+- **Regional Context**: Missing socioeconomic data for locations hindered deeper regional insights.  
+- **Quality Gaps**: High pending inspection rates (41%) limited quality control evaluations.  
+- **Stock and Supply Chain**: Lack of real-time stock data made it challenging to address shortages effectively.  
+- **Transportation Metrics**: Missing delivery timelines and customer satisfaction data constrained logistics optimization.  
+
+### Suggestions  
+- Add demographic and time-period data for targeted and seasonal analysis.  
+- Introduce real-time stock monitoring and detailed transportation metrics for supply chain efficiency.  
+- Focus on balancing product performance and resolving inspection backlogs.
+
+## Key Learnings  
+
+- **Data Cleaning and Preparation**: Enhanced skills in handling missing values, resolving inconsistencies, and preparing data for analysis.  
+- **Data Modeling**: Improved proficiency in creating calculated measures and columns using tools like DAX in Power BI for advanced analytics.  
+- **Insight Derivation**: Learned to extract actionable insights from diverse datasets and communicate them effectively.  
+- **Visualization Skills**: Developed expertise in designing dashboards that highlight critical business metrics and trends.  
+- **Supply Chain Understanding**: Gained an understanding of stock management, transportation efficiency, and their impact on overall performance.  
+- **Analytical Thinking**: Strengthened ability to identify patterns, address limitations, and propose data-driven recommendations.  
+- **Domain Knowledge**: Acquired insights into the retail and cosmetics industry, including category-wise performance and regional trends.
+
+## Additional Information
+- **Cleaned Dataset**: The full cleaned dataset is uploaded in the main section for reference and further analysis.
+- **Interactive Dashboard**: You can access the interactive dashboard through the link provided in the 'Dashboard' section of this README file.
+
+## Tech Stack
+Project relies on the following key technologies:
+
+- `Power BI Desktop` Design, visualization, and interactive reporting.
+- `DAX (Data Analysis Expressions)` Creation of calculations and measures supporting data visualizations.
+- `Power Query` Clean and transform raw data into a structured format.
+
+## License
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
+
+---
+
+For questions or feedback, please contact: ajaysonkatar@gmail.com
+
+Enjoy exploring the project!
+
